@@ -1,2 +1,3 @@
 # PersonalStorageCompanion
-Random
+
+Additional functions and extra saved data addon
